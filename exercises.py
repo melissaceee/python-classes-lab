@@ -44,7 +44,9 @@ class Game():
         self.print_message()
     
   def get_move(self):
-       
+        if (not self.tie) 
+ 
+                
                 
 
 game_instance = Game()
