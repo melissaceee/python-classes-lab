@@ -12,4 +12,6 @@ class Game:
     def welcome_message(self):
         print("Welcome to Tic-Tac-Toe!")
 
-  
+    def print_board(self):
+        print("  A | B | C")
+   
