@@ -43,8 +43,9 @@ class Game():
         self.print_board()
         self.print_message()
     
-
+  def get_move(self):
+       
                 
-   
+
 game_instance = Game()
 game_instance.play_game()
